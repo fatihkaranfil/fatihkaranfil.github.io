@@ -1,78 +1,16 @@
 ---
-layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+layout: page
+title: About me
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+I have been a research fellow at [KAPSARC](https://kapsarc.org) since December 2017. I began my career as a researcher at Galatasaray University before moving
+to the University of Paris Nanterre where I worked as an associate professor of economics. I have also been a researcher at EconomiX-CNRS
+and an external researcher attached to Galatasaray University Economic Research Center (GIAM).
 
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+I hold a Habilitation to supervise research (HDR) in Economics from University of Paris Nanterre, a Ph.D. in Economics from University
+of Paris 1 Panthéon-Sorbonne, an M.A. in Economic Analysis and Modeling from University of Paris 1 Panthéon-Sorbonne and École Centrale Paris,
+and a B.A. in Economics from Galatasaray University.
 
 
-How about a yummy crepe?
+### 
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
