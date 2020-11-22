@@ -15,6 +15,8 @@ author: Fatih Karanfil
 
 navbar-links:
   About Me: "aboutme"
+  Research: "research"
+  CV: "cv"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -40,12 +42,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
+#  facebook: deanattali
   github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
   linkedin: fdfsfsfsfsd
+  ideas: adadsa
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
