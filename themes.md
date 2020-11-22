@@ -1,9 +1,10 @@
 ---
 layout: page
+title: Works by theme
 ---
 
 
-### Refereed Journal Articles
+# Refereed Journal Articles
 
 “The role of oil in the allocation of foreign aid: The case of the G7 donors” (with C. Couharde, E.G. Kilama, and L.D. Omgba). Journal of Comparative Economics, [forthcoming].
 
