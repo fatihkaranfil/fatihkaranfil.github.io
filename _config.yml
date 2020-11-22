@@ -14,11 +14,11 @@ author: Fatih Karanfil
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Download CV: "cv_fatih_karanfil.pdf"
   Research: 
     - Recent work: "recentwork"
     - Works by theme: "themes"
-   Recent resentations: "presentation"
+  Download CV: "cv_fatih_karanfil.pdf"
+  Recent resentations: "presentation"
  # Author's home: "https://fatihkaranfil.github.io"
 
 # --- Logo --- #
