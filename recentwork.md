@@ -14,8 +14,6 @@ When appraising investment projects from a public perspective, a barrel of oil d
 [Download PDF](https://www.kapsarc.org/file-download.php?i=52893&m=o)
 
 &nbsp;
- 
-&nbsp;
 
 ### Cooperate or Compete? Insights from Simulating a Global Oil Market with No Residual Supplier
 
