@@ -18,7 +18,8 @@ navbar-links:
   Research: 
     - Recent work: "recentwork"
     - Works by theme: "workstheme"
-  CV: "cv"
+  Download CV: "cv_fatih_karanfil.pdf"
+  Recent resentations: "presentation"
  # Author's home: "https://fatihkaranfil.github.io"
 
 # --- Logo --- #
