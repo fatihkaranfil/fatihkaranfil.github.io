@@ -4,7 +4,7 @@ title: About me
 subtitle: 
 ---
 
-I have been a research fellow at KAPSARC since December 2017. I began my career as a researcher at Galatasaray University before moving
+I have been a research fellow at [KAPSARC](https://kapsarc.org) since December 2017. I began my career as a researcher at Galatasaray University before moving
 to the University of Paris Nanterre where I worked as an associate professor of economics. I have also been a researcher at EconomiX-CNRS
 and an external researcher attached to Galatasaray University Economic Research Center (GIAM).
 
