@@ -3,7 +3,8 @@ layout: page
 title: Journal articles
 ---
 
-Here are some of my published journal articles grouped by theme. A full list of publications can be found in my CV.
+Here are some of my published journal articles grouped by theme.\
+A full list of publications can be found in my CV.
 
 ## Oil-exporting countries
 
@@ -57,5 +58,5 @@ Here are some of my published journal articles grouped by theme. A full list of 
 
 ## Rivalry in sports
 
-- “An empirical analysis of European football rivalries based on on-field performances”. [*Sport Management Review*](https://www.sciencedirect.com/science/article/pii/S1441352316300948) 20, pp. 468-482, 2017.
+- “An empirical analysis of European football rivalries based on on-field performances”. [*Sport Management Review*](https://www.sciencedirect.com/science/article/pii/S1441352316300948) 20, pp. 468-482, 2017.\
 *Media coverage:* [Daily Record](https://www.dailyrecord.co.uk/news/scottish-news/celtic-rangers-need-cash-bitter-10059671).
