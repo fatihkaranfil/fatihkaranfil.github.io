@@ -4,7 +4,8 @@ title: Other writings
 ---
 
 ### Impact of the COVID-19 Pandemic on Migrant Workers in the Informal Sector and Spin-off Effects in Their Destination and Home Countries
-##### T20 Policy Brief, Saudi Arabia G20\
+##### T20 Policy Brief, Saudi Arabia G20
+
 joint with Mohamed Sharif Ahmed, Dramane Coulibaly, Hind Kinani, Ana B. Moreno, Luc Désiré Omgba, Nhusha Vu
 
 The coronavirus disease (COVID-19) pandemic has posed major challenges to healthcare systems worldwide. It will also have long-lasting effects on the economy, pushing millions around the world into precarity and poverty. The already vulnerable will be hit even harder—the slum dwellers; irregular and undocumented migrants, who are mostly women; and low-skilled migrant workers engaged in the informal sector. Furthermore, as migrant workers lose their jobs, this will impact not only the economies they work in, but also their home countries’ economies. Policy action supporting the workers and enterprises operating in both the formal and informal economy is critical in the recovery phase... [[Read more]](https://t20saudiarabia.org.sa/en/briefs/Pages/Policy-Brief.aspx?pb=TF11_PB11)
