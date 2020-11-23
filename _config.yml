@@ -18,8 +18,8 @@ navbar-links:
   Research: 
     - Recent work: "recentwork"
     - Journal articles: "themes"
-  Courses: "courses"
-  Other writings: "other"
+    Other writings: "other.html"
+    Courses: "courses"
  # Author's home: "https://fatihkaranfil.github.io"
 
 # --- Logo --- #
