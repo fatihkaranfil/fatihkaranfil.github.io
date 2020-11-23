@@ -8,7 +8,7 @@ A full list of publications can be found in my CV.
 
 ## Oil-exporting countries
 
-- “The role of oil in the allocation of foreign aid: The case of the G7 donors” (with C. Couharde, E.G. Kilama, and L.D. Omgba). [*Journal of Comparative Economics*](https://www.sciencedirect.com/science/article/pii/S0147596718301872), 2020.
+- “The role of oil in the allocation of foreign aid: The case of the G7 donors” (with C. Couharde, E.G. Kilama, and L.D. Omgba). [*Journal of Comparative Economics*](https://www.sciencedirect.com/science/article/pii/S0147596718301872) 48, pp. 363-383, 2020.
 
 - “Reconsidering the scarcity factor in the dynamics of oil markets: An empirical investigation of the (mis)measurement of oil reserves” (with L.D. Omgba). [*Energy*](https://www.sciencedirect.com/science/article/pii/S0360544217311878) 137, pp. 209-218, 2017.
 
