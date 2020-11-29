@@ -72,20 +72,20 @@ feed_show_excerpt: false
 feed_show_tags: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "fatih karanfil, "
+keywords: "fatih karanfil, fatihkaranfil, energy economics, research fellow, KAPSARC"
 
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#3e46a3"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#3e46a3"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#3e46a3"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -113,7 +113,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "31164426"
 
 # Google Tag Manager ID
 #gtm: ""
