@@ -59,4 +59,4 @@ A full list of publications can be found in my CV.
 ## Rivalry in sports
 
 - “An empirical analysis of European football rivalries based on on-field performances”. [*Sport Management Review*](https://www.sciencedirect.com/science/article/pii/S1441352316300948) 20, pp. 468-482, 2017.\
-  - *Media coverage:* [Daily Record](https://www.dailyrecord.co.uk/news/scottish-news/celtic-rangers-need-cash-bitter-10059671).
+  - *Media coverage:* [Daily Record](https://www.dailyrecord.co.uk/news/scottish-news/celtic-rangers-need-cash-bitter-10059671); [BBC Radio Scotland](https://www.bbc.co.uk/programmes/b08hptzj)
