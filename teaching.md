@@ -3,13 +3,29 @@ layout: page
 title: Teaching
 ---
 
-### Impact of the COVID-19 Pandemic on Migrant Workers in the Informal Sector and Spin-off Effects in Their Destination and Home Countries
+### Lecture Material
 
-#### T20 Policy Brief, Saudi Arabia G20
+#### University of Paris Nanterre
 
-(with Mohamed Sharif Ahmed, Dramane Coulibaly, Hind Kinani, Ana B. Moreno, Luc Désiré Omgba, Nhusha Vu)
+Markup : <details>
+           <summary>Title 1</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
+         
+[1]	Environmental economics (graduate), Fall of 2011, 2012, 2013, 2014, 2015, 2016, 2017.
+[2]	Energy economics (graduate), Paris Nanterre University, Spring of 2014, 2015, 2016, 2017.
+[3]	Energy commodities market (graduate), Paris Nanterre University, Fall of 2014, 2015, 2016, 2017.
+[4]	Financial analysis of projects (graduate), Paris Nanterre University, Spring of 2011, 2012, 2013, 2014.
+[5]	Energy demand and efficiency (graduate), Paris Nanterre University, Fall of 2011, 2012, 2013, 2014. 
+[6]	Applied econometrics using SAS (graduate), Paris Nanterre University, Spring of 2012, 2013, 2014.
+[7]	Statistics (undergraduate), Paris Nanterre University, Fall of 2011, 2012, 2013, 2014, 2015, 2016, 2017.
+[8]	Econometrics (undergraduate), Paris Nanterre University, Spring of 2012, 2013, 2014, 2015, 2016, 2017.
+[9]	Empirical methods in energy and environmental economics (graduate), Paris Nanterre University, Spring of 2013, 2014, 2015, 2016, 2017.
+[10]	Statistics (undergraduate), Galatasaray University, Spring of 2005, 2006, 2007, 2008, 2009, 2010.
+[11]	Macroeconomics (undergraduate), Galatasaray University, Spring of 2010.
 
-The coronavirus disease (COVID-19) pandemic has posed major challenges to healthcare systems worldwide. It will also have long-lasting effects on the economy, pushing millions around the world into precarity and poverty. The already vulnerable will be hit even harder—the slum dwellers; irregular and undocumented migrants, who are mostly women; and low-skilled migrant workers engaged in the informal sector. Furthermore, as migrant workers lose their jobs, this will impact not only the economies they work in, but also their home countries’ economies. Policy action supporting the workers and enterprises operating in both the formal and informal economy is critical in the recovery phase... [[Read more]](https://t20saudiarabia.org.sa/en/briefs/Pages/Policy-Brief.aspx?pb=TF11_PB11)
+
+[[Read more]](https://t20saudiarabia.org.sa/en/briefs/Pages/Policy-Brief.aspx?pb=TF11_PB11)
 
 <br/>
 
