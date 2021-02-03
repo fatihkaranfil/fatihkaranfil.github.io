@@ -7,22 +7,54 @@ title: Teaching
 
 #### University of Paris Nanterre
 
-Markup : <details>
-           <summary>Title 1</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
-         </details>
-         
-[1]	Environmental economics (graduate), Fall of 2011, 2012, 2013, 2014, 2015, 2016, 2017.
-[2]	Energy economics (graduate), Paris Nanterre University, Spring of 2014, 2015, 2016, 2017.
-[3]	Energy commodities market (graduate), Paris Nanterre University, Fall of 2014, 2015, 2016, 2017.
-[4]	Financial analysis of projects (graduate), Paris Nanterre University, Spring of 2011, 2012, 2013, 2014.
-[5]	Energy demand and efficiency (graduate), Paris Nanterre University, Fall of 2011, 2012, 2013, 2014. 
-[6]	Applied econometrics using SAS (graduate), Paris Nanterre University, Spring of 2012, 2013, 2014.
-[7]	Statistics (undergraduate), Paris Nanterre University, Fall of 2011, 2012, 2013, 2014, 2015, 2016, 2017.
-[8]	Econometrics (undergraduate), Paris Nanterre University, Spring of 2012, 2013, 2014, 2015, 2016, 2017.
-[9]	Empirical methods in energy and environmental economics (graduate), Paris Nanterre University, Spring of 2013, 2014, 2015, 2016, 2017.
-[10]	Statistics (undergraduate), Galatasaray University, Spring of 2005, 2006, 2007, 2008, 2009, 2010.
-[11]	Macroeconomics (undergraduate), Galatasaray University, Spring of 2010.
+<details>
+<summary>Environmental economics (graduate)</summary>
+<p>No material</p>
+</details>
+<details>
+<summary>Energy economics (graduate)</summary>
+<p>No material</p>
+</details>
+<details>
+<summary>Energy commodities market (graduate)</summary>
+<p>No material</p>
+</details>
+<details>
+<summary>Financial analysis of projects (graduate)</summary>
+<p>No material</p>
+</details>
+<details>
+<summary>Energy demand and efficiency (graduate)</summary>
+<p>No material</p>
+</details>
+<details>
+<summary>Applied econometrics using SAS (graduate)</summary>
+<p>No material</p>
+</details>
+<details>
+<summary>Empirical methods in energy and environmental economics (graduate)</summary>
+<p>No material</p>
+</details>
+<details>
+<summary>Statistics (undergraduate)</summary>
+<p>No material</p>
+</details>
+<details>
+<summary>Econometrics (undergraduate)</summary>
+<p>No material</p>
+</details>
+
+#### Galatasaray University
+<details>
+<summary>Statistics (undergraduate)</summary>
+<p>No material</p>
+</details>
+<details>
+<summary>Macroeconomics (undergraduate)</summary>
+<p>No material</p>
+</details>
+
+  
 
 
 [[Read more]](https://t20saudiarabia.org.sa/en/briefs/Pages/Policy-Brief.aspx?pb=TF11_PB11)
