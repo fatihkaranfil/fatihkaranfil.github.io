@@ -9,7 +9,7 @@ title: Teaching
 
 <details>
 <summary>Environmental economics (graduate)</summary>
-<p>[[Read more]](https://t20saudiarabia.org.sa/en/briefs/Pages/Policy-Brief.aspx?pb=TF11_PB11)</p>
+[[Read more]](https://t20saudiarabia.org.sa/en/briefs/Pages/Policy-Brief.aspx?pb=TF11_PB11)
 </details>
 <details>
 <summary>Energy economics (graduate)</summary>
