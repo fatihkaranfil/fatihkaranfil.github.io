@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-### Lecture Material
+### Lecture material
 
 #### University of Paris Nanterre
 
