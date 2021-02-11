@@ -8,7 +8,7 @@ A full list of publications can be found in my CV.
 
 ## Oil
 
-- “The opportunity cost of domestic oil consumption for an oil exporter: Illustration for Saudi Arabia” (with A. Pierru). [*Energy Economics*](https://www.sciencedirect.com/science/article/pii/S0140988321000669), Forthcoming, 105161, 2021.
+- “The opportunity cost of domestic oil consumption for an oil exporter: Illustration for Saudi Arabia” (with A. Pierru). [*Energy Economics*](https://www.sciencedirect.com/science/article/pii/S0140988321000669), 105161, 2021.
 
 - “The role of oil in the allocation of foreign aid: The case of the G7 donors” (with C. Couharde, E.G. Kilama, and L.D. Omgba). [*Journal of Comparative Economics*](https://www.sciencedirect.com/science/article/pii/S0147596718301872) 48, pp. 363-383, 2020.
 
