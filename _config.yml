@@ -14,7 +14,7 @@ author: Fatih Karanfil
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CV: "cv_fatih_karanfil.pdf"
+  CV: "cv"
   Research: 
     - Recent work: "recentwork"
     - Journal articles: "themes"
