@@ -5,7 +5,7 @@ title: Recent work
 
 ### Cooperate or Compete? Insights from Simulating a Global Oil Market with No Residual Supplier
 
-with Bertrand Rioux, Abdullah AlJarboua, Axel Pierru, Shahd AlRashed, Colin Ward 
+with Bertrand Rioux, Abdullah Al Jarboua, Axel Pierru, Shahd Al Rashed, Colin Ward 
 
 ##### Abstract 
 
