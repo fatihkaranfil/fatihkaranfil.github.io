@@ -8,6 +8,8 @@ A full list of publications can be found in my CV.
 
 ## Oil
 
+- “Cooperate or Compete? Insights from Simulating a Global Oil Market with No Residual Supplier” (with B. Rioux, A. Al Jarboua, A. Pierru, S. Al Rashed, C. Ward). [*The Energy Journal*](https://www.iaee.org/en/publications/ejarticle.aspx?id=3809). *Forthcoming*. 43, pp. 239-261, 2022.
+
 - “The opportunity cost of domestic oil consumption for an oil exporter: Illustration for Saudi Arabia” (with A. Pierru). [*Energy Economics*](https://www.sciencedirect.com/science/article/pii/S0140988321000669) 96, 105161, 2021.
 
 - “The role of oil in the allocation of foreign aid: The case of the G7 donors” (with C. Couharde, E.G. Kilama, and L.D. Omgba). [*Journal of Comparative Economics*](https://www.sciencedirect.com/science/article/pii/S0147596718301872) 48, pp. 363-383, 2020.
