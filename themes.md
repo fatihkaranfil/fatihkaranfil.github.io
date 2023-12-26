@@ -6,7 +6,7 @@ title: Journal articles
 Here are some of my published journal articles grouped by theme.\
 A full list of publications can be found in my CV.
 
-## Energy transition and public policy making
+## Energy transition and public policymaking
 
 - “Energy Transition in Oil-Dependent Economies: Public Discount Rates for Investment Project Evaluation” (with A. Pierru). [*The Energy Journal*] *Forthcoming*, 2024.
 
