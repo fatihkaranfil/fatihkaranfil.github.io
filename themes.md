@@ -6,15 +6,25 @@ title: Journal articles
 Here are some of my published journal articles grouped by theme.\
 A full list of publications can be found in my CV.
 
+## Energy transition and public policy making
+
+- “Energy Transition in Oil-Dependent Economies: Public Discount Rates for Investment Project Evaluation” (with A. Pierru). [*The Energy Journal*] *Forthcoming*, 2024.
+
+- “The energy transition and export diversification in oil-dependent countries: The role of structural factors” (with L.D. Omgba). [*Ecological Economics*](https://www.sciencedirect.com/science/article/pii/S0921800922003421) 204, 107681, 2023.
+
+- “Fiscal policy in oil and gas-exporting economies: Good times, bad times and ugly times” (with O. Durand-Lasserve). [*Energy Economics*](https://www.sciencedirect.com/science/article/pii/S0140988323004851) 126, 106987, 2023.
+
+
 ## Oil
 
-- “Cooperate or Compete? Insights from Simulating a Global Oil Market with No Residual Supplier” (with B. Rioux, A. Al Jarboua, A. Pierru, S. Al Rashed, C. Ward). [*The Energy Journal*](https://www.iaee.org/en/publications/ejarticle.aspx?id=3809). *Forthcoming*. 43, pp. 239-261, 2022.
+- “Cooperate or Compete? Insights from Simulating a Global Oil Market with No Residual Supplier” (with B. Rioux, A. Al Jarboua, A. Pierru, S. Al Rashed, C. Ward). [*The Energy Journal*](https://www.iaee.org/en/publications/ejarticle.aspx?id=3809) 43, pp. 239-261, 2022.
 
 - “The opportunity cost of domestic oil consumption for an oil exporter: Illustration for Saudi Arabia” (with A. Pierru). [*Energy Economics*](https://www.sciencedirect.com/science/article/pii/S0140988321000669) 96, 105161, 2021.
 
 - “The role of oil in the allocation of foreign aid: The case of the G7 donors” (with C. Couharde, E.G. Kilama, and L.D. Omgba). [*Journal of Comparative Economics*](https://www.sciencedirect.com/science/article/pii/S0147596718301872) 48, pp. 363-383, 2020.
 
 - “Reconsidering the scarcity factor in the dynamics of oil markets: An empirical investigation of the (mis)measurement of oil reserves” (with L.D. Omgba). [*Energy*](https://www.sciencedirect.com/science/article/pii/S0360544217311878) 137, pp. 209-218, 2017.
+
 
 ## Renewables and electricity
 
