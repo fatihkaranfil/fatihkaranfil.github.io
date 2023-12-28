@@ -3,27 +3,27 @@ layout: page
 title: Recent work
 ---
 
-### Cooperate or Compete? Insights from Simulating a Global Oil Market with No Residual Supplier
-
-with Bertrand Rioux, Abdullah Al Jarboua, Axel Pierru, Shahd Al Rashed, Colin Ward 
-
-##### Abstract 
-
-Structural changes in the oil market, such as the rise of tight oil, are impacting conventional market dynamics and incentives for producers to cooperate. What if OPEC stopped organizing residual production collectively? We develop an equilibrium model to simulate a competitive world oil market from 2020 to 2030. It includes detailed conventional and unconventional oil supplies and financial investment constraints. Our competitive market scenarios indicate that oil prices first decline and tend to recover to reference residual supplier scenario levels by 2030. In a competitive oil market, a reduction in the financial resources made available to the global upstream oil sector leads to increased revenues for low-cost producers such as Saudi Arabia. Compared to the competitive scenario, Saudi Arabia does not benefit from acting alone as a residual supplier, but, under some assumptions, it benefits from being part of a larger group that works collectively as a residual supplier.
-
-[Link to full paper](https://www.iaee.org/en/publications/ejarticle.aspx?id=3809)
-
-&nbsp;
-
-### Fiscal Policy for Stability in Oil-Exporting Countries: From the Old Problems to the Challenges of COVID-19
+### Fiscal policy in oil and gas-exporting economies: Good times, bad times and ugly times
 
 with Olivier Durand-Lasserve 
 
 ##### Abstract 
 
-Since the Great Recession of 2008, oil-exporting countries have had to adjust their fiscal policies to respond to larger oil price variations and increased unpredictability. This commentary provides insights into the relationship between oil prices and fiscal policies in emerging and developing (ED) oil-exporting countries. It also gives an overview of how fiscal rules and sovereign wealth funds (SWFs) can contribute to mitigating fluctuations in oil revenues and stabilizing economies. Last, it discusses the fiscal responses of oil-exporting countries to the COVID-19 crisis.
+We study the cyclicality of fiscal policy to oil and gas revenue in emerging and developing energy-exporting countries. We build a unique oil and gas fiscal revenue database for 30 countries and develop a novel framework to identify various kinds of asymmetry in the response of public expenditure to oil and gas revenue. To explore asymmetries that may occur during revenue cycles, we distinguish between high and low oil and gas revenue regimes, as well as between positive and negative revenue shocks. Using an unbalanced panel over the period 2000–2020, we find that fiscal policy is procyclical in general but neutral when confronted with high but declining revenue, possibly influenced by policymakers' optimistic view that revenue will quickly recover. Moreover, we find the greatest level of procyclicality when revenue is low but increasing. This situation may follow periods of fiscal tightening where governments face greater social pressure to catch up with higher spending. Our results also suggest that financial openness increases procyclicality in low revenue regimes only, and that during these periods, IMF programs are associated with expenditure reductions regardless of improvements or deteriorations of oil and gas revenue.
 
-[Link to full paper](https://www.kapsarc.org/research/publications/fiscal-policy-for-stability-in-oil-exporting-countries-from-the-old-problems-to-the-challenges-of-covid-19/)
+[Link to full paper](https://www.sciencedirect.com/science/article/pii/S0140988323004851)
+
+&nbsp;
+
+### The energy transition and export diversification in oil-dependent countries: The role of structural factors
+
+with Luc Désiré Omgba
+
+##### Abstract 
+
+The energy transition toward decarbonization is expected to impact producers of fossil fuels. However, oil-exporting countries are currently key players in the modern economy. Thus, the energy transition will not be successful if state revenues in these countries are not stably maintained. These countries can protect themselves against revenue volatility and mitigate carbon risk by diversifying their economies. However, export diversification appears to be particularly challenging for many oil-producing countries. It is natural to ask why some oil-exporting countries have managed to diversify their economies whereas others have not. We hypothesize that the differences in oil producers' diversification patterns may be associated with differences in their structural characteristics. Such differences may cause countries' diversification trends to diverge. To investigate this hypothesis, we examine whether all countries converge toward the same diversification level. We also check whether their diversification efforts diverge overall but create separate convergence clubs. The results show that structural and institutional factors play a central role in the diversification process. In particular, countries with higher quality infrastructure, human capital and research and development efforts are more likely to converge toward high diversification. Thus, these factors provide greater economic stability in turbulent times and promote a successful energy transition.
+
+[Link to full paper](https://www.sciencedirect.com/science/article/pii/S0921800922003421)
 
 &nbsp;
 
