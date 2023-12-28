@@ -8,7 +8,7 @@ A full list of publications can be found in my CV.
 
 ## Energy transition and public policymaking
 
-- “Energy Transition in Oil-Dependent Economies: Public Discount Rates for Investment Project Evaluation” (with A. Pierru). [*The Energy Journal*] *Forthcoming*, 2024.
+- “Energy Transition in Oil-Dependent Economies: Public Discount Rates for Investment Project Evaluation” (with A. Pierru). [*The Energy Journal*](https://www.iaee.org/en/publications/ejindex.aspx) *Forthcoming*, 2024.
 
 - “The energy transition and export diversification in oil-dependent countries: The role of structural factors” (with L.D. Omgba). [*Ecological Economics*](https://www.sciencedirect.com/science/article/pii/S0921800922003421) 204, 107681, 2023.
 
