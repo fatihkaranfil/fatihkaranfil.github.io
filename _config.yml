@@ -79,14 +79,14 @@ keywords: "fatih karanfil, fatihkaranfil, energy economics, research fellow, KAP
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#c6d4f0"
-navbar-text-col: "#404040"
+navbar-text-col: "#4b464c"
 navbar-border-col: "#5f5c63"
-page-col: "#645f66"
+page-col: "#4b464c"
 text-col: "#ffffff"
 link-col: "#c6d4f0"
 hover-col: "#b5044b"
 footer-col: "#c6d4f0"
-footer-text-col: "#777777"
+footer-text-col: "#4b464c"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
