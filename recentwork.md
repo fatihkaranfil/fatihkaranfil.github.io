@@ -3,6 +3,18 @@ layout: page
 title: Recent work
 ---
 
+### Energy Transition in Oil-Dependent Economies: Public Discount Rates for Investment Project Evaluation
+
+with Axel Pierru  
+
+##### Abstract 
+
+Selecting welfare-enhancing projects necessitates determining the present value of cash flows from a public policy perspective. For an oil-exporting economy, the domestic energy transition often implies displacing oil from domestic consumption. Economic dependence on oil affects the public discount rate for oil price-related cash flows in two opposite ways: On the one hand, it renders the economy more volatile, which lowers the risk-free discount rate; on the other hand, it increases the correlation between consumption and the oil price, which results in a higher risk premium. To study these opposite forces, we first derive the public discount rate for an oil price-related investment project. Our framework considers economic uncertainty, an oil price-related risk premium, and allows for valuing oil at its opportunity cost. We illustrate our methodology using data from a panel of 26 oil-exporting countries. The results indicate that a risk-free discount rate of 3.1% is appropriate for our panel. However, to discount oil price-related cash f lows, a risk premium of 1.4% needs to be added to the risk-free rate, which yields a risk-adjusted real discount rate of 4.5%. We find significant disparities between country-specific public discount rates. Additionally, for each country, we assess the present value of reducing domestic oil consumption by a barrel per day from 2023 to 2040, breaking down the different effects. Oil-exporting countries can use our estimates for making investment or policy decisions.
+
+[Link to full paper](https://www.iaee.org/en/publications/download-instant.aspx?id=4204)
+
+&nbsp;
+
 ### Fiscal policy in oil and gas-exporting economies: Good times, bad times and ugly times
 
 with Olivier Durand-Lasserve 
@@ -25,15 +37,5 @@ The energy transition toward decarbonization is expected to impact producers of 
 
 [Link to full paper](https://www.sciencedirect.com/science/article/pii/S0921800922003421)
 
-&nbsp;
 
-### The Opportunity Cost of Domestic Oil Consumption for an Oil Exporter: Illustration for Saudi Arabia
-
-with Axel Pierru 
-
-##### Abstract 
-
-We develop a partial equilibrium framework to assess the opportunity cost of domestic oil consumption for an oil-exporting country. We show that the opportunity cost depends on various factors, including the constraints to which the oil producer is subject and the domestic oil pricing scheme. Moreover, through an application of the envelope theorem, we assess net welfare gains that can be generated from a reform of the domestic oil price. Our results show that the most efficient pricing policy is to set the domestic price equal to the opportunity cost. A numerical illustration for Saudi Arabia is provided to demonstrate the practical value of the proposed framework. Our findings can inform public decision-making for projects and policies that impact oil demand.
-
-[Link to full paper](https://www.sciencedirect.com/science/article/pii/S0140988321000669)
 
