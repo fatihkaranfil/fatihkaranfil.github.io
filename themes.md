@@ -8,7 +8,7 @@ A full list of publications can be found in my CV.
 
 ## Energy transition and public policymaking
 
-- “Energy Transition in Oil-Dependent Economies: Public Discount Rates for Investment Project Evaluation” (with A. Pierru). [*The Energy Journal*](https://www.iaee.org/en/publications/ejindex.aspx) *Forthcoming*, 2024.
+- “Energy Transition in Oil-Dependent Economies: Public Discount Rates for Investment Project Evaluation” (with A. Pierru). [*The Energy Journal*](https://journals.sagepub.com/doi/full/10.5547/01956574.45.SI1.fkar) 45, pp. 63-88, 2024.
 
 - “The energy transition and export diversification in oil-dependent countries: The role of structural factors” (with L.D. Omgba). [*Ecological Economics*](https://www.sciencedirect.com/science/article/pii/S0921800922003421) 204, 107681, 2023.
 
@@ -27,6 +27,8 @@ A full list of publications can be found in my CV.
 
 
 ## Renewables and electricity
+
+- “Navigating the energy transition in the EU: Renewables, critical raw materials and emerging vulnerabilities” (with S. Gueye and L.D. Omgba) [*Ecological Economics*](https://www.sciencedirect.com/science/article/pii/S092180092500179X?dgcid=rss_sd_all) 237, 108696, 2025.
 
 - “The Role of Continuous Intraday Electricity Markets: The Integration of Large-Share Wind Power Generation in Denmark” (with Y. Li). [*The Energy Journal*](http://www.iaee.org/energyjournal/article/2879) 38, pp.107-130, 2017.
 
