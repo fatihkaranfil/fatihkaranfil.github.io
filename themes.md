@@ -28,7 +28,7 @@ A full list of publications can be found in my CV.
 
 ## Renewables and electricity
 
-- “Navigating the energy transition in the EU: Renewables, critical raw materials and emerging vulnerabilities” (with S. Gueye and L.D. Omgba) [*Ecological Economics*](https://www.sciencedirect.com/science/article/pii/S092180092500179X?dgcid=rss_sd_all) 237, 108696, 2025.
+- “Navigating the energy transition in the EU: Renewables, critical raw materials and emerging vulnerabilities” (with S. Gueye and L.D. Omgba). [*Ecological Economics*](https://www.sciencedirect.com/science/article/pii/S092180092500179X?dgcid=rss_sd_all) 237, 108696, 2025.
 
 - “The Role of Continuous Intraday Electricity Markets: The Integration of Large-Share Wind Power Generation in Denmark” (with Y. Li). [*The Energy Journal*](http://www.iaee.org/energyjournal/article/2879) 38, pp.107-130, 2017.
 
