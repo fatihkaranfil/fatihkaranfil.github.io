@@ -11,28 +11,156 @@ permalink: /teaching/
   <title>Teaching | Fatih Karanfil</title>
   <link rel="canonical" href="https://fatihkaranfil.github.io/teaching/">
   <link rel="stylesheet" href="/assets/css/academic.css">
-  <style>
-    /* Teaching-specific rules; shared colors and typography inherit from academic.css. */
-    .teaching-hero {padding-top: clamp(4rem, 8vw, 7rem); padding-bottom: clamp(3rem, 6vw, 5rem);}
-    .teaching-hero h1 {max-width: 920px; font-size: clamp(2.5rem, 5vw, 4.8rem); line-height: 1.1; letter-spacing: -.035em; margin: 1.2rem 0;}
-    .teaching-hero h1 em {font-weight: 400;}
-    .teaching-lead {max-width: 760px; font-size: clamp(1.1rem, 1.6vw, 1.35rem); line-height: 1.75;}
-    .teaching-rule {border-top: 1px solid #d9dce0; margin-top: 3.5rem;}
-    .teaching-block {padding-top: 4.5rem; padding-bottom: 4.5rem;}
-    .teaching-block h2 {max-width: 850px; margin: 1rem 0 1.5rem; font-size: clamp(2rem, 3.4vw, 3.2rem); line-height: 1.18;}
-    .teaching-block > p, .teaching-block .body-copy {max-width: 790px; line-height: 1.8;}
-    .teaching-cards {display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1.4rem; margin-top: 2.5rem;}
-    .teaching-card {border-top: 2px solid #142b46; background: #f7f7f5; padding: 2rem; min-height: 210px;}
-    .teaching-card h3 {margin: .7rem 0; font-size: 1.5rem;}
-    .teaching-card p {line-height: 1.7; margin-bottom: 0;}
-    .teaching-subjects {display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 2rem; margin-top: 2.5rem;}
-    .teaching-subject {border-top: 1px solid #c9cdd2; padding-top: 1.2rem;}
-    .teaching-subject .number {display: block; margin-bottom: 1.4rem; font-size: .85rem;}
-    .teaching-subject h3 {font-size: 1.45rem; line-height: 1.3; margin: 0 0 .7rem;}
-    .teaching-subject p {line-height: 1.7;}
-    .teaching-end {padding: 2.5rem 0 5rem;}
-    @media(max-width: 800px) {.teaching-cards, .teaching-subjects {grid-template-columns: 1fr;} .teaching-block {padding-top: 3rem; padding-bottom: 3rem;} .teaching-card {min-height: auto;} }
-  </style>
+
+<style>
+  /* Teaching-specific styles.
+     Shared colors and typography inherit from academic.css. */
+
+  /* HERO SECTION */
+  .teaching-hero {
+    padding-top: clamp(4rem, 8vw, 7rem);
+    padding-bottom: clamp(3rem, 6vw, 5rem);
+  }
+
+  .teaching-hero h1 {
+    max-width: 920px;
+    font-size: clamp(2.5rem, 5vw, 4.8rem);
+    line-height: 1.1;
+    letter-spacing: -.035em;
+    margin: 1.2rem 0;
+  }
+
+  .teaching-hero h1 em {
+    font-weight: 400;
+  }
+
+  .teaching-lead {
+    max-width: 760px;
+    font-size: clamp(1.1rem, 1.6vw, 1.35rem);
+    line-height: 1.75;
+  }
+
+  .teaching-rule {
+    border-top: 1px solid #d9dce0;
+    margin-top: 3.5rem;
+  }
+
+  /* CONTENT SECTIONS */
+  .teaching-block {
+    padding-top: 4.5rem;
+    padding-bottom: 4.5rem;
+  }
+
+  .teaching-block h2 {
+    max-width: 850px;
+    margin: 1rem 0 1.5rem;
+    font-size: clamp(2rem, 3.4vw, 3.2rem);
+    line-height: 1.18;
+  }
+
+  .teaching-block > p,
+  .teaching-block .body-copy {
+    max-width: 790px;
+    line-height: 1.8;
+  }
+
+  /* TEACHING INSTITUTIONS: THREE COLUMNS */
+  .teaching-cards {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.4rem;
+    margin-top: 2.5rem;
+    align-items: stretch;
+  }
+
+  .teaching-card {
+    border-top: 2px solid #142b46;
+    background: #f7f7f5;
+    padding: 2rem;
+    min-height: 210px;
+    height: 100%;
+    box-sizing: border-box;
+  }
+
+  .teaching-card h3 {
+    margin: .7rem 0;
+    font-size: 1.5rem;
+  }
+
+  .teaching-card p {
+    line-height: 1.7;
+    margin-bottom: 0;
+  }
+
+  /* TEACHING SUBJECTS */
+  .teaching-subjects {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 2rem;
+    margin-top: 2.5rem;
+  }
+
+  .teaching-subject {
+    border-top: 1px solid #c9cdd2;
+    padding-top: 1.2rem;
+  }
+
+  .teaching-subject .number {
+    display: block;
+    margin-bottom: 1.4rem;
+    font-size: .85rem;
+  }
+
+  .teaching-subject h3 {
+    font-size: 1.45rem;
+    line-height: 1.3;
+    margin: 0 0 .7rem;
+  }
+
+  .teaching-subject p {
+    line-height: 1.7;
+  }
+
+  /* FINAL SECTION */
+  .teaching-end {
+    padding: 2.5rem 0 5rem;
+  }
+
+  /* TABLET */
+  @media (max-width: 1050px) {
+    .teaching-cards {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  /* MOBILE */
+  @media (max-width: 800px) {
+    .teaching-cards,
+    .teaching-subjects {
+      grid-template-columns: 1fr;
+    }
+
+    .teaching-block {
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+    }
+
+    .teaching-card {
+      min-height: auto;
+      height: auto;
+    }
+
+    .teaching-hero {
+      padding-top: 3rem;
+      padding-bottom: 2rem;
+    }
+
+    .teaching-card h3 {
+      font-size: 1.35rem;
+    }
+  }
+</style>
+
 </head>
 <body>
   <header class="site-header">
@@ -66,18 +194,42 @@ permalink: /teaching/
     <section class="section shell teaching-block">
       <span class="eyebrow">ACADEMIC INSTITUTIONS</span>
       <h2>Teaching appointments.</h2>
-      <div class="teaching-cards">
-        <article class="teaching-card">
-          <span class="eyebrow">RIYADH · SAUDI ARABIA</span>
-          <h3>KAPSARC School of Public Policy (KSPP)</h3>
-          <p>Teaching in economics and public policy, connecting economic analysis with contemporary policy challenges.</p>
-        </article>
-        <article class="teaching-card">
-          <span class="eyebrow">PARIS · FRANCE</span>
-          <h3>Université Paris Nanterre</h3>
-          <p>Former <em>Maître de conférences</em> (Associate Professor-level faculty appointment) in economics, with university teaching and research responsibilities.</p>
-        </article>
-      </div>
+
+<div class="teaching-cards">
+
+  <article class="teaching-card">
+    <span class="eyebrow">RIYADH · SAUDI ARABIA</span>
+    <h3>KAPSARC School of Public Policy (KSPP)</h3>
+    <p>
+    Teaching Climate and Environmental Economics
+    as part of the Acceleration Program, designed
+    for fresh graduates and professionals from
+    Saudi Arabia's energy ecosystem.
+    </p>
+  </article>
+
+  <article class="teaching-card">
+    <span class="eyebrow">PARIS · FRANCE</span>
+    <h3>Université Paris Nanterre</h3>
+    <p>
+      Former <em>Maître de conférences</em> in Economics
+      (Associate Professor-level faculty appointment),
+      combining university teaching, academic research,
+      and student supervision.
+    </p>
+  </article>
+
+  <article class="teaching-card">
+    <span class="eyebrow">ISTANBUL · TÜRKIYE</span>
+    <h3>Galatasaray University</h3>
+    <p>
+      Former instructor in Statistics and Macroeconomics,
+      providing undergraduate teaching in quantitative
+      methods and macroeconomic analysis.
+    </p>
+  </article>
+
+</div>
     </section>
     <section class="section tinted">
       <div class="shell teaching-block">
